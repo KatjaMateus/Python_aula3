@@ -4,5 +4,5 @@
 
 jogo = {"Título":"League of Legends", "Genero":"MOBA"}
 jogo2 = jogo.copy()
-jogo2.update({"Título":"Perfect World","Genero":"MMORPG","Lançamento":2005})
+jogo2.update({"Lançamento":2005})
 print(jogo2)
